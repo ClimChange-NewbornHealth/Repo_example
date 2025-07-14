@@ -1,2 +1,2 @@
 # Repo_example
-Una breve descripción
+Una breve descripción. Pequeño ajuste. 
